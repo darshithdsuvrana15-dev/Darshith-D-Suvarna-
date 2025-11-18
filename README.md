@@ -52,15 +52,6 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 
 ---
 
-## 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 📫 **Connect With Me**
 - Email: **darshithdsuvarna15@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/darshith-d-suvarna-b96bb5326?utm_source=share_via&utm_content=profile&utm_medium=member_android**  
