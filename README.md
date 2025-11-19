@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Darshith D Suvarna**
 
-### 💻 Software Developer | Backend Specialist | Full-Stack Enthusiast  
+### 💻 Software Developer || Full-Stack Enthusiast  
 
 I am a passionate **Software Developer** with strong expertise in **Backend Development** and solid knowledge of **Frontend technologies**. I enjoy building clean, scalable, and high-performance applications.
 
@@ -13,8 +13,7 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ### 🔹 **Backend Development**
 - Python  
 - PHP  
-- Java  
-- Node.js (if you want, remove)  
+- Java 
 
 ### 🔹 **Frontend Development**
 - HTML  
@@ -24,7 +23,7 @@ I am a passionate **Software Developer** with strong expertise in **Backend Deve
 ### 🔹 **Databases**
 - MySQL  
 - PostgreSQL  
-- MongoDB (optional)  
+
 
 ### 🔹 **Tools & Technologies**
 - Git & GitHub  
