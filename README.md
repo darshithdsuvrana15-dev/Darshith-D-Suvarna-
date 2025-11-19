@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm **Darshith D Suvarna**
 
-### 💻 Software Developer || Full-Stack Enthusiast  
+### 💻 Software Developer 
 
-I am a passionate **Software Developer** with strong expertise in **Backend Development** and solid knowledge of **Frontend technologies**. I enjoy building clean, scalable, and high-performance applications.
+Aspiring MCA student with foundational skills in HTML, CSS, SQL, and basic backend development. I aim to build practical, real-world projects that strengthen my technical abilities and help me grow as a full-stack developer.
 
 ---
 
