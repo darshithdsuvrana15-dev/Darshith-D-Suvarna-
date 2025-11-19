@@ -27,7 +27,6 @@ Aspiring MCA student with foundational skills in HTML, CSS, SQL, and basic backe
 
 ### 🔹 **Tools & Technologies**
 - Git & GitHub  
-- REST APIs  
 - Linux / Shell  
 - VS Code  
 
